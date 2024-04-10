@@ -79,15 +79,9 @@ http://[2409:8087:7004:20:1000::22]:6610/yinhe/2/ch00000090990000001308/index.m3
 
 #📺国际频道
 #EXTINF:-1,凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G.m3u8
-#EXTINF:-1,凤凰中文
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226547/index.m3u8
+http://play-flive.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1,凤凰资讯
-http://113.64.145.228:8081/hls/36/index.m3u8
-#EXTINF:-1,凤凰资讯
-https://playtv-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1,凤凰资讯
-http://[2409:8087:7000:20::4]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226546/index.m3u8
+http://play-flive.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1,凤凰香港
 http://113.64.145.228:8081/hls/38/index.m3u8
 #EXTINF:-1,中天新闻
