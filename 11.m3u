@@ -11,12 +11,6 @@ http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/ind
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
 #EXTINF:-1 tvg-id="海南公共" tvg-name="海南公共" tvg-logo="https://live.fanmingming.com/tv/海南公共.png" group-title="海南频道",海南公共
 http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
-#EXTINF:-1 group-title="海南频道" tvg-id="海南卫视" tvg-logo="https://live.fanmingming.com/tv/海南卫视.png",海南卫视
-http://221.213.43.82:8888/newlive/live/hls/50/live.m3u8
-#EXTINF:-1 tvg-id="B13" tvg-name="海南卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Hainan.png" group-title="海南频道",海南卫视
-http://[2409:8087:2001:20:2800:0:df6e:eb09]:80/ott.mobaibox.com/PLTV/4/224/3221228139/index.m3u8
-#EXTINF:-1 tvg-id="B27" tvg-name="三沙卫视" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/Sansha.png" group-title="海南频道",三沙卫视
-https://live2.hnntv.cn/srs/tv/ssws.m3u8?_upt=c0ed04c81712755476
 #EXTINF:-1 group-title="海南频道" tvg-id="海口一套综合频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0201/smalla2ad1cf2b8f858b1d0b00c51fea1c2271517494297.jpg",海口一套综合频道
 http://124.225.35.97:16080/live/tv2401.m3u8
 #EXTINF:-1 group-title="海南频道" tvg-id="海口二套生活娱乐频道" tvg-logo="http://tv.haoqu99.com/d/file/2018/0201/small1a7e13a782f5d8212de10bff5b56ce4e1517494375.jpg",海口二套生活娱乐频道
